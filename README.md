@@ -21,7 +21,7 @@
 <br> 
  
 <a id="about"></a> 
-## ☆ About Me 
+## ♡ About Me 
  
 > *“Data is cool. Making it creative is better.”*
  
