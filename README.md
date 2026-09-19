@@ -29,7 +29,7 @@ I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, and 
  
 I also freelance in **Production, Editing & Videography** as **Georgia Jayy**, am a huge Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection. I believe personality should be shown in everything you do — which is why I spent **10,000 years** making this README.
  
-```python
+<pre style="color:#FF5C9D;">
 georgia = {
     "role": ["Junior Data Analyst", "Producer", "Editor", "Videographer"],
     "focus": [
@@ -41,5 +41,5 @@ georgia = {
     "tools": ["SQL", "Python", "Power BI", "Excel"],
     "principle": "data should be as cool as it is informative",
     "currentlyExploring": "the underground rap scene like I'm an angsty teenager"
-    ],
 }
+</pre>
