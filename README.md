@@ -48,7 +48,7 @@ georgia = {
 
 <div align="center">
 
-**AI & Agent Systems**
+**Data & Analytics**
 <br>
 <img src="https://img.shields.io/badge/Python-D95892?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-FF5C9D?style=for-the-badge&logo=mysql&logoColor=white" />
