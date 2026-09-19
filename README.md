@@ -2,7 +2,6 @@
 
 <div align="right">
   <a href="#about"><img src="https://img.shields.io/badge/about-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
-  <a href="#building"><img src="https://img.shields.io/badge/building-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#skills"><img src="https://img.shields.io/badge/tech-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#projects"><img src="https://img.shields.io/badge/projects-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#stats"><img src="https://img.shields.io/badge/stats-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
