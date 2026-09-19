@@ -4,7 +4,7 @@
   <a href="#about"><img src="https://img.shields.io/badge/about-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#skills"><img src="https://img.shields.io/badge/tech-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#projects"><img src="https://img.shields.io/badge/projects-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
-  <a href="#connect with me"><img src="https://img.shields.io/badge/contact-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/contact-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
 </div>
 
 <div align="center">
