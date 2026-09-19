@@ -61,6 +61,8 @@ georgia = {
 
 <a id="projects"></a>
 ## 𝄞 Selected Projects
+<a id="projects"></a>
+
 <div align="center">
   <table>
     <tr>
