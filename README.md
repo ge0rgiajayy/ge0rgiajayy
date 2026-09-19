@@ -43,6 +43,8 @@ georgia = {
 }
 </pre>
 
+---
+
 <a id="skills"></a>
 ## ♰ Technologies & Practice
 
@@ -58,6 +60,8 @@ georgia = {
 <img src="https://img.shields.io/badge/Jupyter-D95892?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 <br>
+
+---
 
 ## 𝄞 Selected Projects
 <div align="center">
@@ -75,37 +79,31 @@ georgia = {
   </table>
 </div>
 
-<a id="interests"></a>
-## ♡ Sports, Culture & Entertainment I Love
+---
+
+## ♡ Connect With Me
 
 <div align="center">
-
-**Sports**
-<a id="interests"></a>
-## ♡ Things I Love
-
-<div align="center">
-
-**Sports**
-<br>
-<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcTjeozYr7YIrPe0t52mH7E9LTRFJUx5jkJhCFg3LeQGYQ%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="Arsenal" />
-<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcT2Jwqh9cxB35_lTn9V0Z_GaEq2oqHd5Ccjcbh1PJZ3uw%26s&mask=heart&w=60&h=60&fit=cover" title="Raptors" />
-<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcT79wnBD9qQIvanCAghplKS5V7Cyq6liPL0Cw9f98tatQ%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="Raiders" />
-
-<br>
-
-**Music**
-<br>
-<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcTzUtJI-FC2ePhz2Oduaw75KadEm4OdX136Ivkoa0Wxkw%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="Drake" />
-<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcSYt_2-Cw_3kDXyeYhgUlJVFNqwXF_PaarUiyt6IWP8gQ%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="D'Angelo" />
-<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcRk-2ptEbmc6Lx1CvpQamlGVLvDxb0TZYRVbsKoah2ooA%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="The Fugees" />
-
-<br>
-
-**Film**
-<br>
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/pulp-fiction.jpg&mask=heart&w=60&h=60&fit=cover" title="Pulp Fiction" />
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/corpse-bride.jpg&mask=heart&w=60&h=60&fit=cover" title="Corpse Bride" />
-<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/get-out.jpg&mask=heart&w=60&h=60&fit=cover" title="Get Out" />
-
+  <a href="https://www.linkedin.com/in/georgiajayysummers/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF5C9D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/u0swet40w9urvwnha1s0jv1f4?si=d6f5afdd1a9a432a">
+    <img src="https://img.shields.io/badge/Spotify-DA6AA6?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <!-- Portfolio: add your link inside the quotes below when it's ready -->
+  <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-FF5C9D?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:work.georgiajayy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F06AAB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
+<br><br>
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_to_Top-%E2%86%A1-FF5C9D?style=for-the-badge" />
+  </a>
+</div>
+
