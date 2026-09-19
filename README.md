@@ -76,41 +76,36 @@ georgia = {
 </div>
 
 <a id="interests"></a>
+## ♡ Sports, Culture & Entertainment I Love
+
+<div align="center">
+
+**Sports**
+<a id="interests"></a>
 ## ♡ Things I Love
 
 <div align="center">
 
 **Sports**
 <br>
+<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcTjeozYr7YIrPe0t52mH7E9LTRFJUx5jkJhCFg3LeQGYQ%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="Arsenal" />
+<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcT2Jwqh9cxB35_lTn9V0Z_GaEq2oqHd5Ccjcbh1PJZ3uw%26s&mask=heart&w=60&h=60&fit=cover" title="Raptors" />
+<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcT79wnBD9qQIvanCAghplKS5V7Cyq6liPL0Cw9f98tatQ%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="Raiders" />
 
-<img src="https://images.weserv.nl/?url=YOUR_ARSENAL_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Arsenal" />
-
-<img src="https://images.weserv.nl/?url=YOUR_RAPTORS_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Toronto Raptors" />
-
-<img src="https://images.weserv.nl/?url=YOUR_TEMPO_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Toronto Tempo" />
-
-<img src="https://images.weserv.nl/?url=YOUR_RAIDERS_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Las Vegas Raiders" />
-
-</div>
+<br>
 
 **Music**
 <br>
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-1.jpg&mask=heart&w=60&h=60&fit=cover" title="R&B" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-2.jpg&mask=heart&w=60&h=60&fit=cover" title="Hip-Hop" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-3.jpg&mask=heart&w=60&h=60&fit=cover" title="Underground Rap" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-4.jpg&mask=heart&w=60&h=60&fit=cover" title="Soul" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-5.jpg&mask=heart&w=60&h=60&fit=cover" title="Jazz" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-6.jpg&mask=heart&w=60&h=60&fit=cover" title="Music Culture" />
+<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcTzUtJI-FC2ePhz2Oduaw75KadEm4OdX136Ivkoa0Wxkw%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="Drake" />
+<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcSYt_2-Cw_3kDXyeYhgUlJVFNqwXF_PaarUiyt6IWP8gQ%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="D'Angelo" />
+<img src="https://images.weserv.nl/?url=encrypted-tbn0.gstatic.com/images%3Fq%3Dtbn%3AANd9GcRk-2ptEbmc6Lx1CvpQamlGVLvDxb0TZYRVbsKoah2ooA%26s%3D10&mask=heart&w=60&h=60&fit=cover" title="The Fugees" />
 
 <br>
 
 **Film**
 <br>
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-1.jpg&mask=heart&w=60&h=60&fit=cover" title="Film" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-2.jpg&mask=heart&w=60&h=60&fit=cover" title="Cinema" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-3.jpg&mask=heart&w=60&h=60&fit=cover" title="Documentaries" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-4.jpg&mask=heart&w=60&h=60&fit=cover" title="Indie Film" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-5.jpg&mask=heart&w=60&h=60&fit=cover" title="TV & Film" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-6.jpg&mask=heart&w=60&h=60&fit=cover" title="Visual Storytelling" />
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/pulp-fiction.jpg&mask=heart&w=60&h=60&fit=cover" title="Pulp Fiction" />
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/corpse-bride.jpg&mask=heart&w=60&h=60&fit=cover" title="Corpse Bride" />
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/get-out.jpg&mask=heart&w=60&h=60&fit=cover" title="Get Out" />
 
 </div>
