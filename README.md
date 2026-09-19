@@ -87,9 +87,6 @@ georgia = {
   <a href="https://www.linkedin.com/in/georgiajayysummers/">
     <img src="https://img.shields.io/badge/LinkedIn-FF5C9D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/u0swet40w9urvwnha1s0jv1f4?si=d6f5afdd1a9a432a">
-    <img src="https://img.shields.io/badge/Spotify-DA6AA6?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
   <!-- Portfolio: add your link inside the quotes below when it's ready -->
   <a href="">
     <img src="https://img.shields.io/badge/Portfolio-FF5C9D?style=for-the-badge&logo=google-chrome&logoColor=white" />
