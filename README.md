@@ -14,3 +14,6 @@
 
 <h1 align="center">☆ Hi, I'm Georgia J Summers! ☆</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Agents%2C+voice%2C+memory+and+backend;Developer+tools%2C+evals+and+context+engineering;Software+that+feels+alive">
+</div>
