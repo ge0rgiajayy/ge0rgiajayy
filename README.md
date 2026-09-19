@@ -1,16 +1,13 @@
-## Hi there 👋
+<a id="top"></a>
 
-<!--
-**ge0rgiajayy/ge0rgiajayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/about-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#building"><img src="https://img.shields.io/badge/building-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/tech-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/projects-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/stats-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="./README%20banner.gif" width="100%" alt="Culture" />
+</div>
