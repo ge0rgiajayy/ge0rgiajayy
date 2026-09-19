@@ -42,3 +42,20 @@ georgia = {
     "currentlyExploring": "the underground rap scene like I'm an angsty teenager"
 }
 </pre>
+
+<a id="skills"></a>
+## ✧ Technologies & Practice
+
+<div align="center">
+
+**AI & Agent Systems**
+<br>
+<img src="https://img.shields.io/badge/Python-D95892?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-FF5C9D?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-D95892?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-E84D91?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<br>
+
+
+<br>
