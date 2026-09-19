@@ -20,7 +20,7 @@
 <br> 
  
 <a id="about"></a> 
-## ♡ About Me 
+## ☠︎︎ About Me 
  
 > *“Data is cool. Making it creative is better.”*
  
@@ -44,7 +44,7 @@ georgia = {
 </pre>
 
 <a id="skills"></a>
-## ☠︎︎ Technologies & Practice
+## ♰ Technologies & Practice
 
 <div align="center">
 
@@ -75,12 +75,40 @@ georgia = {
   </table>
 </div>
 
-<a id="stats"></a>
-## ✦ Statistics
+<a id="interests"></a>
+## ♡ Things I Love
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@ge0rgiajayy?theme=moebooru" alt="Moe Counter" />
-  <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=ge0rgiajayy&show_icons=true&theme=radical&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&include_all_commits=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ge0rgiajayy&layout=compact&theme=radical&hide_border=true&title_color=FF5C9D&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+
+**Football**
+<br>
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-1.jpg&mask=heart&w=60&h=60&fit=cover" title="Arsenal" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-2.jpg&mask=heart&w=60&h=60&fit=cover" title="Arsenal Women" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-3.jpg&mask=heart&w=60&h=60&fit=cover" title="Women's Football" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-4.jpg&mask=heart&w=60&h=60&fit=cover" title="Premier League" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-5.jpg&mask=heart&w=60&h=60&fit=cover" title="WSL" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-6.jpg&mask=heart&w=60&h=60&fit=cover" title="Football Culture" />
+
+<br>
+
+**Music**
+<br>
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-1.jpg&mask=heart&w=60&h=60&fit=cover" title="R&B" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-2.jpg&mask=heart&w=60&h=60&fit=cover" title="Hip-Hop" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-3.jpg&mask=heart&w=60&h=60&fit=cover" title="Underground Rap" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-4.jpg&mask=heart&w=60&h=60&fit=cover" title="Soul" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-5.jpg&mask=heart&w=60&h=60&fit=cover" title="Jazz" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/music-image-6.jpg&mask=heart&w=60&h=60&fit=cover" title="Music Culture" />
+
+<br>
+
+**Film**
+<br>
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-1.jpg&mask=heart&w=60&h=60&fit=cover" title="Film" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-2.jpg&mask=heart&w=60&h=60&fit=cover" title="Cinema" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-3.jpg&mask=heart&w=60&h=60&fit=cover" title="Documentaries" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-4.jpg&mask=heart&w=60&h=60&fit=cover" title="Indie Film" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-5.jpg&mask=heart&w=60&h=60&fit=cover" title="TV & Film" />
+<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/film-image-6.jpg&mask=heart&w=60&h=60&fit=cover" title="Visual Storytelling" />
+
 </div>
