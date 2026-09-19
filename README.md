@@ -60,7 +60,7 @@ georgia = {
 <br>
 
 <a id="projects"></a>
-## ☾ Selected Projects
+## 𝄞 Selected Projects
 
 <div align="center">
   <table>
