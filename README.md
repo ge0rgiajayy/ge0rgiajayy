@@ -11,3 +11,5 @@
 <div align="center">
   <img src="./README%20banner.gif" width="100%" alt="Culture" />
 </div>
+
+<h1 align="center"> ☆ Hi, I'm Georgia J Summers ☆ </h1>
