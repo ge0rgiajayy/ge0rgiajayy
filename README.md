@@ -74,3 +74,13 @@ georgia = {
     </tr>
   </table>
 </div>
+
+<a id="stats"></a>
+## ✦ Statistics
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@Rukafuu?theme=moebooru" alt="Moe Counter" />
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=radical&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&include_all_commits=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=radical&hide_border=true&title_color=FF5C9D&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+</div>
