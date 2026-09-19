@@ -1,5 +1,7 @@
 <a id="top"></a>
 
+<h1 align="center">☆ Hi, I'm Georgia J Summers! ☆</h1>
+
 <div align="right">
   <a href="#about"><img src="https://img.shields.io/badge/about-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#building"><img src="https://img.shields.io/badge/building-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
