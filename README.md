@@ -62,12 +62,22 @@ georgia = {
 <a id="projects"></a>
 ## 𝄞 Selected Projects
 
+<a id="projects"></a>
+## ☾ Selected Projects
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="top" width="50%">
+      <td align="center" valign="top" width="50%" bgcolor="#FF5C9D">
+
         <a href="https://github.com/ge0rgiajayy/UNDERGROUND-TO-BREAKOUT">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=ge0rgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="UNDERGROUND-TO-BREAKOUT" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=ge0rgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=radical&border_color=FFFFFF&title_color=FFFFFF" alt="UNDERGROUND-TO-BREAKOUT" />
+        </a>
+
+        <p style="color:white;">
+          <strong>UNDERGROUND-TO-BREAKOUT · Music Analytics</strong><br>
+          A data-driven exploration of how an underground rap duo grows from emerging artist to a breakout act.
+        </p>
       </td>
     </tr>
   </table>
