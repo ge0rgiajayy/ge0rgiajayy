@@ -39,7 +39,7 @@ georgia = {
         "entertainment",
     ],
     "tools": ["SQL", "Python", "Power BI", "Excel"],
-    "principle": "data should be cool as it is informative",
+    "principle": "data should be as cool as it is informative",
     "currentlyExploring": "the underground rap scene like I'm an angsty teenager"
     ],
 }
