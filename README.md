@@ -54,6 +54,8 @@ georgia = {
 <img src="https://img.shields.io/badge/SQL-FF5C9D?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-D95892?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-E84D91?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-FF5C9D?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/mplsoccer-4A183A?style=for-the-badge" />
 
 <br>
 
