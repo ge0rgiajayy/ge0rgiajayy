@@ -80,16 +80,18 @@ georgia = {
 
 <div align="center">
 
-**Football**
+**Sports**
 <br>
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-1.jpg&mask=heart&w=60&h=60&fit=cover" title="Arsenal" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-2.jpg&mask=heart&w=60&h=60&fit=cover" title="Arsenal Women" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-3.jpg&mask=heart&w=60&h=60&fit=cover" title="Women's Football" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-4.jpg&mask=heart&w=60&h=60&fit=cover" title="Premier League" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-5.jpg&mask=heart&w=60&h=60&fit=cover" title="WSL" />
-<img src="https://images.weserv.nl/?url=i.pinimg.com/736x/football-image-6.jpg&mask=heart&w=60&h=60&fit=cover" title="Football Culture" />
 
-<br>
+<img src="https://images.weserv.nl/?url=YOUR_ARSENAL_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Arsenal" />
+
+<img src="https://images.weserv.nl/?url=YOUR_RAPTORS_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Toronto Raptors" />
+
+<img src="https://images.weserv.nl/?url=YOUR_TEMPO_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Toronto Tempo" />
+
+<img src="https://images.weserv.nl/?url=YOUR_RAIDERS_IMAGE_URL&mask=heart&w=70&h=70&fit=cover" title="Las Vegas Raiders" />
+
+</div>
 
 **Music**
 <br>
