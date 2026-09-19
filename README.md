@@ -12,5 +12,5 @@
   <img src="./README%20banner.gif" width="100%" alt="Culture" />
 </div>
 
-<h1 align="center">☆ Hi, I'm Georgia J Summers ☆</h1>
+<h1 align="center">☆ Hi, I'm Georgia J Summers! ☆</h1>
 <h2 align="center">Welcome to my GitHub</h2>
