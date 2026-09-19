@@ -81,6 +81,7 @@ georgia = {
 </div>
 
 ---
+<a id="contact"></a>
 
 ## ♡ Connect With Me
 
