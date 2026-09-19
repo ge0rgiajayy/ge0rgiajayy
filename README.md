@@ -44,7 +44,7 @@ georgia = {
 </pre>
 
 <a id="skills"></a>
-## ✧ Technologies & Practice
+## ☠︎︎ Technologies & Practice
 
 <div align="center">
 
