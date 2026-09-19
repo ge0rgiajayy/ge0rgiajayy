@@ -65,11 +65,10 @@ georgia = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="top" width="50%">
+      <td align="center" valign="top" width="50%" bgcolor="#FF5C9D">
         <a href="https://github.com/ge0rgiajayy/UNDERGROUND-TO-BREAKOUT">
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=ge0rgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="UNDERGROUND-TO-BREAKOUT" />
         </a>
-        <p><strong>UNDERGROUND-TO-BREAKOUT · Music Analytics</strong><br>
         Tracking an underground rap artist's growth through streaming data, social media, releases, audience behaviour and creative research.</p>
         <p><sub>Music research · Data analytics · Python · Visualisation</sub></p>
       </td>
