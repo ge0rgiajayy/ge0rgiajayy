@@ -48,7 +48,7 @@ georgia = {
 
 <a id="socials"></a>
 
-## 🕷️ Socials 
+## Socials 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/georgiajayysummers/">
@@ -66,7 +66,7 @@ georgia = {
 
 # ꩜ Tech Stack 
 
-### 🩷 Data & Analytics
+### Data & Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white" />
@@ -79,7 +79,7 @@ georgia = {
   <img src="https://img.shields.io/badge/Matplotlib-ff1493?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🕸️ Creative & Development
+### Creative & Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-ff1493?style=for-the-badge&logo=html5&logoColor=white" />
