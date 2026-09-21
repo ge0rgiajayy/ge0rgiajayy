@@ -14,7 +14,7 @@
   <img src="./README%20banner.gif" width="100%" alt="Culture" />
 </div>
 
-<h1 align="center">☠︎︎ ☆ Hi, I'm Georgia J. Summers! ☆ ☠︎︎</h1>
+<h1 align="center">☆ Hi, I'm Georgia J. Summers! ☆ </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff1493&size=25&center=true&vCenter=true&width=800&lines=Junior+Data+Analyst;Sports%2C+Culture+%26+Entertainment;Data+%E2%9C%95+Music+%E2%9C%95+Culture;Creative+%26+Curious+by+Nature" />
@@ -24,30 +24,21 @@
 
 <a id="about-me"></a>
 
-## ☠︎︎ About Me 
+# ☠︎︎ About Me
 
-> *"Data is cool. Making it creative is better."* 
+> *"Data is cool. Making it creative is better."*
 
-I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, and entertainment**. I combine data, storytelling, and creativity to explore audiences, trends, and the narratives behind the numbers — because a spreadsheet is only half the story. 
+I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, and entertainment**. I combine data, storytelling, and creativity to explore audiences, trends, and the narratives behind the numbers — because a spreadsheet is only half the story.
 
 I also freelance in **Production, Editing & Videography** as **"Georgia Jayy"**, am a die-hard Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection. 🎧
 
-I believe personality should show in everything you make — which is why I spent **10,000 years** on this README. 
-
-```python
-georgia = {
-    "role": ["Junior Data Analyst", "Producer", "Editor", "Videographer"],
-    "focus": ["sport", "culture", "music", "entertainment"],
-    "tools": ["SQL", "Python", "Power BI", "Excel"],
-    "principle": "make it mean something.",
-    "currentlyExploring": "the underground rap scene, like an angsty teenager",
-}
+I believe personality should show in everything you make — which is why I spent **10,000 years** on this README.
 
 ---
 
 <a id="socials"></a>
 
-## ❀ Socials
+## Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/georgiajayysummers/">
@@ -62,7 +53,7 @@ georgia = {
 
 <a id="tech-stack"></a>
 
-# ꩜ Tech Stack
+# Tech Stack
 
 ### Data & Analytics
 
@@ -94,20 +85,20 @@ georgia = {
 
 <a id="learning-stack"></a>
 
-# ⌁ Learning Stack
+# Learning Stack
 
 > *Currently learning, experimenting, and adding to the toolkit.*
 
 <p align="left">
-<img src="https://img.shields.io/badge/Advanced_SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Storytelling-000000?style=for-the-badge&logo=storyblok&logoColor=white" />
-<img src="https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Football_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI_Advanced-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Visualisation-000000?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Game_Development-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Storytelling-000000?style=for-the-badge&logo=storyblok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Football_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI_Advanced-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualisation-000000?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Game_Development-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 *The stack is growing...*
@@ -116,19 +107,19 @@ georgia = {
 
 <a id="github-stats"></a>
 
-# ★ GitHub Stats 
+# ★ GitHub Stats
 
 <p align="center">
 
-  <img src="https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=ff1493&icon_color=ff1493&text_color=000000&bg_color=FFFFFF" />
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&stroke=FFFFFF&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" />
+  <img src="https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=FFFFFF&ring=ff1493&fire=ff1493&currStreakLabel=ff1493&stroke=FFFFFF&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" />
 
   <br/>
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=000000&border_color=000000&langs_count=8" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff1493&text_color=000000&bg_color=FFFFFF&icon_color=ff1493&border_color=FFFFFF&langs_count=8" />
 
 </p>
 
@@ -136,21 +127,21 @@ georgia = {
 
 <a id="selected-projects"></a>
 
-## 𝄞 Selected Projects 
+## 𝄞 Selected Projects
 
 |                                                                                                                                        Project                                                                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy\&repo=UNDERGROUND-TO-BREAKOUT\&hide_border=true\&title_color=ff1493\&icon_color=ff1493\&text_color=000000\&bg_color=FFFFFF)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT) |
+| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy\&repo=UNDERGROUND-TO-BREAKOUT\&hide_border=true\&title_color=000000\&icon_color=000000\&text_color=000000\&bg_color=FFFFFF)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT) |
 
 ---
 
 <a id="donate"></a>
 
-## ♡ All donations are welcome! 
+## 🩷  All donations are welcome!
 
-<p align="left">
+<p align="center">
   <a href="https://buymeacoffee.com/georgiajayy">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ff1493?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
 
@@ -162,10 +153,10 @@ georgia = {
 
 <div align="center">
   <a href="https://open.spotify.com/user/u0swet40w9urvwnha1s0jv1f4?si=326f605c8fa245b1">
-    <sub>psst... there's something hidden in this README 👀 </sub>
+    <sub>psst... there's something hidden in this README 👀</sub>
   </a>
 </div>
 
 <p align="center">
-  <a href="#top">↑ back to top </a>
+  <a href="#top">↑ Back to the top</a>
 </p>
