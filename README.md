@@ -20,6 +20,7 @@
 <br> 
  
 <a id="about"></a> 
+
 ## ☠︎︎ About Me
 
 > *"Data is cool. Making it creative is better."*
@@ -30,26 +31,27 @@ I also freelance in **Production, Editing & Videography** as **Georgia Jayy**, a
 
 ```python
 georgia = {
-    "role": ["Junior Data Analyst 📊", "Producer 🎬", "Editor ✂️", "Videographer 🎥"],
+    "role": ["Junior Data Analyst ★", "Producer ★", "Editor ★", "Videographer ★"],
     "focus": ["sport", "culture", "music", "entertainment"],
     "tools": ["SQL", "Python", "Power BI", "Excel"],
     "principle": "data should be as cool as it is informative",
-    "currentlyExploring": "the underground rap scene, like an angsty teenager 🎧",
+    "currentlyExploring": "the underground rap scene, like an angsty teenager ♡",
     "status": "probably overthinking a dashboard right now"
 }
 ```
-</pre>
 
 ---
 
-<a id="skills"></a>
-## ♰ Technologies & Practice
+## ❀ Socials:
+<p align="left">
+<a href="https://www.linkedin.com/in/georgiajayysummers/"><img src="https://img.shields.io/badge/LinkedIn-D95892?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:work.georgiajayy@gmail.com"><img src="https://img.shields.io/badge/Email-E84D91?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<div align="center">
+---
 
-**Data & Analytics**
-<br>
-# 💻 Tech Stack:
+# ꩜ Tech Stack:
+<p align="left">
 <img src="https://img.shields.io/badge/Python-D95892?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-FF5C9D?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-D95892?style=for-the-badge&logo=powerbi&logoColor=white" />
@@ -66,51 +68,39 @@ georgia = {
 <img src="https://img.shields.io/badge/Adobe_Photoshop-FF5C9D?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-D95892?style=for-the-badge&logo=canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-E84D91?style=for-the-badge&logo=trello&logoColor=white" />
-
-<br>
+</p>
 
 ---
-<a id="projects"></a>
+
+# ★ GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=FF5C9D&icon_color=FF5C9D&text_color=ffffff&bg_color=0D1117)<br/>
+![](https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=0D1117&ring=FF5C9D&fire=FF5C9D&currStreakLabel=FF5C9D)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF5C9D&text_color=ffffff&bg_color=0D1117)
+
+## ★ GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=georgiajayy&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+
+---
+
+### ★ Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=georgiajayy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
 
 ## 𝄞 Selected Projects
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <a href="https://github.com/ge0rgiajayy/UNDERGROUND-TO-BREAKOUT">
-          <img src="https://github-stats-extended.vercel.app/api/pin/?username=ge0rgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="UNDERGROUND-TO-BREAKOUT" />
-        </a>
-        <p><strong>UNDERGROUND-TO-BREAKOUT · Music Analytics</strong><br>
-        Tracking an underground rap duo's growth through streaming data, social media, releases, audience behaviour, and creative research.</p>
-        <p><sub>Music research · Data analytics · Python · Visualisation</sub></p>
-      </td>
-    </tr>
-  </table>
-</div>
+
+| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=highcontrast&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT)<br>**UNDERGROUND-TO-BREAKOUT · Music Analytics**  Tracking an underground rap duo's growth through streaming data, social media, releases, audience behaviour, and creative research.<br>Music research · Data analytics · Python · Visualisation |
+| ---- |
 
 ---
-<a id="contact"></a>
 
-## ♡ Connect With Me
+[![](https://komarev.com/ghpvc/?username=georgiajayy&color=FF5C9D&style=for-the-badge)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/georgiajayysummers/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF5C9D?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- Portfolio: add your link inside the quotes below when it's ready -->
-  <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-FF5C9D?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:work.georgiajayy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F06AAB?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+## ♡ You can help me by Donating
+<p align="left">
+<a href="https://buymeacoffee.com/georgiajayy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5C9D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
+</p>
 
-<br><br>
+---
 
-<div align="right">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back_to_Top-%E2%86%A1-FF5C9D?style=for-the-badge" />
-  </a>
-</div>
 
