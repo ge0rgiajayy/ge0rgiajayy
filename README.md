@@ -18,9 +18,9 @@
 
 <br><br>
 
-# ☠︎︎ 𝕲𝖊𝖔𝖗𝖌𝖌𝖎𝖆 𝕵. 𝕾𝖚𝖒𝖒𝖊𝖗𝖘 ☠︎︎
+# ☠︎︎ 𝕲𝖊𝖔𝖗𝖌𝖎𝖆 𝕵. 𝕾𝖚𝖒𝖒𝖊𝖗𝖘 ☠︎︎
 
-### † junior data analyst † producer † editor † videographer †
+### † Junior Data Analyst † Freelance Creative †
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&color=FF1493&size=20&center=true&vCenter=true&width=800&lines=data+%E2%80%A2+storytelling+%E2%80%A2+creativity;football+%E2%80%A2+music+%E2%80%A2+culture+%E2%80%A2+entertainment;turning+numbers+into+something+that+means+something">
 
