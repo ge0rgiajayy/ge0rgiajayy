@@ -1,12 +1,13 @@
 <a id="top"></a>
 
 <div align="right">
-  <a href="#about-me"><img src="https://img.shields.io/badge/†_about-0B0B0B?style=flat-square&labelColor=0B0B0B&color=7A0C0C" /></a>
-  <a href="#socials"><img src="https://img.shields.io/badge/†_socials-0B0B0B?style=flat-square&labelColor=0B0B0B&color=7A0C0C" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/†_arsenal-0B0B0B?style=flat-square&labelColor=0B0B0B&color=7A0C0C" /></a>
-  <a href="#learning-stack"><img src="https://img.shields.io/badge/†_learning-0B0B0B?style=flat-square&labelColor=0B0B0B&color=7A0C0C" /></a>
-  <a href="#github-stats"><img src="https://img.shields.io/badge/†_stats-0B0B0B?style=flat-square&labelColor=0B0B0B&color=7A0C0C" /></a>
-  <a href="#selected-projects"><img src="https://img.shields.io/badge/†_projects-0B0B0B?style=flat-square&labelColor=0B0B0B&color=7A0C0C" /></a>
+  <a href="#about-me"><img src="https://img.shields.io/badge/†_about-000000?style=flat-square&labelColor=000000&color=FF1493" /></a>
+  <a href="#socials"><img src="https://img.shields.io/badge/†_socials-000000?style=flat-square&labelColor=000000&color=FF1493" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/†_tech-000000?style=flat-square&labelColor=000000&color=FF1493" /></a>
+  <a href="#learning-stack"><img src="https://img.shields.io/badge/†_learning-000000?style=flat-square&labelColor=000000&color=FF1493" /></a>
+  <a href="#github-stats"><img src="https://img.shields.io/badge/†_stats-000000?style=flat-square&labelColor=000000&color=FF1493" /></a>
+  <a href="#selected-projects"><img src="https://img.shields.io/badge/†_projects-000000?style=flat-square&labelColor=000000&color=FF1493" /></a>
+  <a href="#donate"><img src="https://img.shields.io/badge/†_support-000000?style=flat-square&labelColor=000000&color=FF1493" /></a>
 </div>
 
 <br>
@@ -21,11 +22,11 @@
 
 ### † junior data analyst † producer † editor † videographer †
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&color=7A0C0C&size=20&center=true&vCenter=true&width=800&lines=data+%E2%80%A2+storytelling+%E2%80%A2+creativity;football+%E2%80%A2+music+%E2%80%A2+culture+%E2%80%A2+entertainment;turning+numbers+into+something+that+actually+means+something">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&color=FF1493&size=20&center=true&vCenter=true&width=800&lines=data+%E2%80%A2+storytelling+%E2%80%A2+creativity;football+%E2%80%A2+music+%E2%80%A2+culture+%E2%80%A2+entertainment;turning+numbers+into+something+that+means+something">
 
 <br>
 
-`✞ ─────────────── † ─────────────── ✞`
+`☠︎︎ ─────────────── † ─────────────── ☠︎︎`
 
 </div>
 
@@ -37,21 +38,11 @@
 
 > *"Data is cool. Making it creative is better."*
 
-I'm a **Junior Data Analyst** interested in the darker corners of **sport, culture, music, and entertainment**.
+I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, music, and entertainment**. I combine data, storytelling, and creativity to explore audiences, trends, and the narratives behind the numbers — because a spreadsheet is only half the story.
 
-I combine **data, storytelling and creativity** to explore audiences, trends and the narratives hiding underneath the numbers — because a spreadsheet is only half the story.
+I also freelance in **Production, Editing & Videography** as **Georgia Jayy**, am a die-hard Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection.
 
-Outside of data, I freelance in **Production, Editing & Videography** as **Georgia Jayy**.
-
-I'm a die-hard Arsenal fan, a music encyclopedia, and someone with a slightly unhealthy devotion to my CD collection.
-
-I like numbers.
-
-I like stories.
-
-I like making things look cool.
-
-Apparently, I also like spending **10,000 years** making a README.
+I believe personality should show in everything you make — which is probably why I spent **10,000 years** on this README.
 
 ```python
 georgia = {
@@ -62,27 +53,26 @@ georgia = {
         "Videographer"
     ],
 
-    "obsessions": [
-        "football",
-        "music",
+    "focus": [
+        "sport",
         "culture",
-        "film",
-        "data"
+        "music",
+        "entertainment"
     ],
 
-    "weapons": [
+    "tools": [
         "SQL",
         "Python",
         "Power BI",
         "Excel"
     ],
 
-    "philosophy": "make it mean something.",
+    "principle": "make it mean something.",
 
     "currentlyExploring":
         "the underground rap scene like an angsty teenager",
 
-    "mentalState":
+    "status":
         "probably overthinking a dashboard right now"
 }
 ```
@@ -98,88 +88,88 @@ georgia = {
 <p align="left">
 
 <a href="https://www.linkedin.com/in/georgiajayysummers/">
-<img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493" />
 </a>
 
 <a href="mailto:work.georgiajayy@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1493" />
 </a>
 
 </p>
 
-<br>
-
-`☠︎︎ find me somewhere on the internet ☠︎︎`
+`☠︎︎ somewhere between the internet & the real world ☠︎︎`
 
 ---
 
 <a id="tech-stack"></a>
 
-# ⛧ 𝕿𝖍𝖊 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
+# ⛧ 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
 
 ### † 𝕯𝖆𝖙𝖆 & 𝕬𝖓𝖆𝖑𝖞𝖙𝖎𝖈𝖘 †
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Power_BI-0B0B0B?style=for-the-badge&logo=powerbi&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Excel-0B0B0B?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/pandas-0B0B0B?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Jupyter-0B0B0B?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/NumPy-0B0B0B?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Matplotlib-0B0B0B?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=FF1493" />
 
 </p>
 
-### † 𝕮𝖗𝖊𝖆𝖙𝖎𝖛𝖊 & 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 †
+### ☠︎︎ 𝕮𝖗𝖊𝖆𝖙𝖎𝖛𝖊 & 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖒𝖊𝖓𝖙 ☠︎︎
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Premiere_Pro-0B0B0B?style=for-the-badge&logo=adobepremierepro&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Photoshop-0B0B0B?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Canva-0B0B0B?style=for-the-badge&logo=canva&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Trello-0B0B0B?style=for-the-badge&logo=trello&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Premiere_Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=FF1493" />
+<img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=FF1493" />
 
 </p>
 
-`✞ ───────────────────────────────────── ✞`
+`☠︎︎ ─────────────────── † ─────────────────── ☠︎︎`
 
 ---
 
 <a id="learning-stack"></a>
 
-# ☾ 𝕿𝖍𝖎𝖓𝖌𝖘 𝕴'𝖒 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌
+# ☾ 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕾𝖙𝖆𝖈𝖐
 
 > *"the character development arc nobody asked for."*
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Advanced_SQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Advanced_SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Statistics-0B0B0B?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=python&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Data_Storytelling-0B0B0B?style=for-the-badge&logo=storyblok&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Data_Storytelling-000000?style=for-the-badge&logo=storyblok&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Sports_Analytics-0B0B0B?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Football_Analytics-0B0B0B?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Football_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Power_BI_Advanced-0B0B0B?style=for-the-badge&logo=powerbi&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Power_BI_Advanced-000000?style=for-the-badge&logo=powerbi&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Data_Visualisation-0B0B0B?style=for-the-badge&logo=plotly&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Data_Visualisation-000000?style=for-the-badge&logo=plotly&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Machine_Learning-0B0B0B?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF1493" />
 
-<img src="https://img.shields.io/badge/Web_Game_Development-0B0B0B?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Web_Game_Development-000000?style=for-the-badge&logo=javascript&logoColor=FF1493" />
 
 </p>
 
 `† learning things † breaking things † fixing things † repeating †`
+
+*The stack is growing...*
 
 ---
 
@@ -189,15 +179,15 @@ georgia = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=7A0C0C&icon_color=7A0C0C&text_color=FFFFFF&bg_color=0B0B0B" />
+<img src="https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF&bg_color=000000" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=0B0B0B&ring=7A0C0C&fire=FFFFFF&currStreakLabel=FFFFFF&stroke=0B0B0B&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+<img src="https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=000000&ring=FF1493&fire=FF1493&currStreakLabel=FFFFFF&stroke=000000&sideLabels=FFFFFF&currStreakNum=FF1493&sideNums=FFFFFF&dates=777777" />
 
 <br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=7A0C0C&text_color=FFFFFF&bg_color=0B0B0B&icon_color=7A0C0C&border_color=0B0B0B&langs_count=8" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF1493&text_color=FFFFFF&bg_color=000000&icon_color=FF1493&border_color=000000&langs_count=8" />
 
 </div>
 
@@ -205,30 +195,32 @@ georgia = {
 
 <a id="selected-projects"></a>
 
-# 𝄞 𝕾𝖊𝖑𝖊𝖈𝖙𝖊𝖉 𝕯𝖗𝖔𝖏𝖊𝖈𝖙𝖘
+# 𝄞 𝕾𝖊𝖑𝖊𝖈𝖙𝖊𝖉 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
 
 ### ☠︎︎ UNDERGROUND → BREAKOUT
 
 **Tracking an underground rap artist's rise through data.**
 
-Streaming data • social growth • releases • audience behaviour • creative research
+`streaming data` • `social growth` • `releases` • `audience behaviour` • `creative research`
 
 <br>
 
 <div align="center">
 
-[![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy\&repo=UNDERGROUND-TO-BREAKOUT\&hide_border=true\&title_color=FFFFFF\&icon_color=7A0C0C\&text_color=FFFFFF\&bg_color=0B0B0B)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT)
+[![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy\&repo=UNDERGROUND-TO-BREAKOUT\&hide_border=true\&title_color=FF1493\&icon_color=FF1493\&text_color=FFFFFF\&bg_color=000000)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT)
 
 </div>
 
 ---
 
-# ♡ 𝕿𝖍𝖊 𝕬𝖑𝖙𝖆𝖗
+<a id="donate"></a>
+
+# ⛧ 𝕿𝖍𝖊 𝕬𝖑𝖙𝖆𝖗
 
 <p align="left">
 
 <a href="https://buymeacoffee.com/georgiajayy">
-<img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0B0B0B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Buy_Me_a_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FF1493" />
 </a>
 
 </p>
@@ -239,7 +231,7 @@ Streaming data • social growth • releases • audience behaviour • creativ
 
 <br><br>
 
-`✞ thank you for visiting my little corner of the internet ✞`
+`† thank you for visiting my little corner of the internet †`
 
 <br><br>
 
@@ -251,7 +243,7 @@ Streaming data • social growth • releases • audience behaviour • creativ
 
 <br><br>
 
-`† ───────────────────────────── †`
+`☠︎︎ ─────────────────── † ─────────────────── ☠︎︎`
 
 <br>
 
