@@ -94,6 +94,6 @@ georgia = {
 
 ---
 <div style="text-align:center; margin-top: 40px;">
-  <img src="assets/thankyou-thank-you-so-much.gif" width="180" alt="Thank you!" />
+  <img src="https://raw.githubusercontent.com/georgiajayy/georgiajayy/main/thankyou-thank-you-so-much.gif" width="180" alt="Thank you!" />
 </div>
 
