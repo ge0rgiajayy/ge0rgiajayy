@@ -75,7 +75,7 @@ georgia = {
 # ★ GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=FF5C9D&icon_color=FF5C9D&text_color=ffffff&bg_color=0D1117)<br/>
 ![](https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=0D1117&ring=FF5C9D&fire=FF5C9D&currStreakLabel=FF5C9D)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF5C9D&text_color=ffffff&bg_color=0D1117)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF5C9D&text_color=ffffff&bg_color=0D1117&icon_color=FF5C9D&border_color=FF5C9D&langs_count=8)
 
 ## ★ GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=georgiajayy&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
