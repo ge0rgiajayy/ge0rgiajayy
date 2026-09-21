@@ -58,7 +58,6 @@ georgia = {
 </p>
 
 ---
-
 <a id="tech-stack"></a>
 
 # ꩜ Tech Stack
@@ -68,8 +67,12 @@ georgia = {
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+  <!-- Jupyter Notebook — pink accent -->
+
+  <img src="https://img.shields.io/badge/Jupyter-FF5C9D?style=for-the-badge&logo=jupyter&logoColor=white" />
+
   <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -98,7 +101,9 @@ georgia = {
 
   <br/>
 
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=000000&border_color=000000&langs_count=8" />
+  <!-- MOST USED LANGUAGES — PINK -->
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF5C9D&text_color=000000&bg_color=FFFFFF&icon_color=FF5C9D&border_color=FF5C9D&langs_count=8" />
 
 </p>
 
