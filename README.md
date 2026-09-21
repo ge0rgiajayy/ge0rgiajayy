@@ -36,7 +36,7 @@ georgia = {
     "role": ["Junior Data Analyst", "Producer", "Editor", "Videographer"],
     "focus": ["sport", "culture", "music", "entertainment"],
     "tools": ["SQL", "Python", "Power BI", "Excel"],
-    "principle": "data should be as cool as it is informative",
+    "principle": "look closer",
     "currentlyExploring": "the underground rap scene, like an angsty teenager",
     "status": "probably overthinking a dashboard right now"
 }
