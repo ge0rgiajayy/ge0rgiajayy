@@ -72,9 +72,6 @@ I believe personality should show in everything you make — which is probably w
 
 <br>
 
-"georgia" = {
-    "role": [ "Junior Data Analyst", "Producer", "Editor", "Videographer"
-],
 
     "focus": [
         "sport",
@@ -94,7 +91,6 @@ I believe personality should show in everything you make — which is probably w
 
     "currentlyExploring":
         "the underground rap scene like an angsty teenager",
-}
 
 <br>
 
