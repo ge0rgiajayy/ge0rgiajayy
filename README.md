@@ -72,7 +72,7 @@ I believe personality should show in everything you make — which is probably w
 
 <br>
 
-georgia = {
+"georgia" = {
     "role": [ "Junior Data Analyst", "Producer", "Editor", "Videographer"
 ],
 
