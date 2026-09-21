@@ -17,7 +17,7 @@
 <h1 align="center">☆ Hi, I'm Georgia J. Summers! ☆ </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff1493&size=25&center=true&vCenter=true&width=800&lines=Junior+Data+Analyst;Sports%2C+Culture+%26+Entertainment;Data+%E2%9C%95+Music+%E2%9C%95+Culture;Creative+%26+Curious+by+Nature" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff1493&size=25&center=true&vCenter=true&width=800&lines=Junior+Data+Analyst;Sports%2C+Culture+%26+Entertainment" />
 </div>
 
 <br>
@@ -38,12 +38,17 @@ I believe personality should show in everything you make — which is why I spen
 
 <a id="socials"></a>
 
-## Socials
+# Socials
 
 <p align="left">
+  <a href="https://georgiajayy.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
   <a href="https://www.linkedin.com/in/georgiajayysummers/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:work.georgiajayy@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -127,7 +132,7 @@ I believe personality should show in everything you make — which is why I spen
 
 <a id="selected-projects"></a>
 
-## 𝄞 Selected Projects
+## Selected Projects
 
 |                                                                                                                                        Project                                                                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
