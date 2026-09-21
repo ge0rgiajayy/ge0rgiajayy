@@ -52,7 +52,6 @@ georgia = {
   <a href="https://www.linkedin.com/in/georgiajayysummers/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:work.georgiajayy@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -65,41 +64,22 @@ georgia = {
 # ꩜ Tech Stack
 
 <p align="left">
-
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-  <!-- PINK ACCENT -->
-
-  <img src="https://img.shields.io/badge/Jupyter-FF5C9D?style=for-the-badge&logo=jupyter&logoColor=white" />
-
   <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" />
-
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
-
 </p>
 
 ---
@@ -118,9 +98,7 @@ georgia = {
 
   <br/>
 
-  <!-- MOST USED LANGUAGES — PINK ACCENT -->
-
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF5C9D&text_color=000000&bg_color=FFFFFF&icon_color=FF5C9D&border_color=FF5C9D&langs_count=8" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=000000&text_color=000000&bg_color=FFFFFF&icon_color=000000&border_color=000000&langs_count=8" />
 
 </p>
 
@@ -130,20 +108,9 @@ georgia = {
 
 ## 𝄞 Selected Projects
 
-<table align="center">
-  <tr>
-    <td>
-
-```
-  <a href="https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy&repo=UNDERGROUND-TO-BREAKOUT&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&text_color=000000&bg_color=FFFFFF&border_color=FF5C9D" />
-  </a>
-
-</td>
-```
-
-  </tr>
-</table>
+|                                                                                                                                        Project                                                                                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy\&repo=UNDERGROUND-TO-BREAKOUT\&hide_border=true\&title_color=000000\&icon_color=000000\&text_color=000000\&bg_color=FFFFFF)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT) |
 
 ---
 
@@ -160,8 +127,6 @@ georgia = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/georgiajayy/georgiajayy/main/thankyou-thank-you-so-much.gif" width="180" alt="Thank you!" />
 </div>
-
-<br>
 
 <p align="center">
   <a href="#top">↑ back to top</a>
