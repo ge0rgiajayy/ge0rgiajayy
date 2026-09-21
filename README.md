@@ -42,7 +42,7 @@
 
 ☠︎︎ 𝕲𝖊𝖔𝖗𝖌𝖎𝖆 𝕵. 𝕾𝖚𝖒𝖒𝖊𝖗𝖘 ☠︎︎
 
-† junior data analyst † producer † editor † videographer †
+† Junior Data Analyst † Freelance Creative †
 
 <br>
 
@@ -98,9 +98,6 @@ georgia = {
 
     "currentlyExploring":
         "the underground rap scene like an angsty teenager",
-
-    "status":
-        "probably overthinking a dashboard right now"
 }
 
 <br>
@@ -191,10 +188,6 @@ georgia = {
 
 <br><br>
 
-† learning things † breaking things † fixing things † repeating †
-
-<br>
-
 The stack is growing...
 
 <br>
@@ -235,12 +228,6 @@ The stack is growing...
 
 Tracking an underground rap artist's growth through data.
 
-<br>
-
-streaming data • social growth • releases • audience behaviour • creative research
-
-<br><br>
-
 <div align="center">
 
 <a href="https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT">
@@ -277,7 +264,7 @@ streaming data • social growth • releases • audience behaviour • creativ
 
 <br><br>
 
-† thank you for visiting my little corner of the internet †
+† Thank you for visiting my little corner of the internet †
 
 <br><br>
 
@@ -293,6 +280,6 @@ streaming data • social growth • releases • audience behaviour • creativ
 
 <br><br>
 
-<a href="#top">↑ return to the surface</a>
+<a href="#top">↑ return to the top</a>
 
 </div>
