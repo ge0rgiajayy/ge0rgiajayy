@@ -79,7 +79,6 @@ georgia = {
 
 ## ★ GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=georgiajayy&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
-
 ---
 
 ## 𝄞 Selected Projects
