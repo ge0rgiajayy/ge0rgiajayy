@@ -75,15 +75,15 @@ georgia = {
 ---
 
 # ★ GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=FF5C9D&icon_color=FF5C9D&text_color=ffffff&bg_color=0D1117)<br/>
-![](https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=0D1117&ring=FF5C9D&fire=FF5C9D&currStreakLabel=FF5C9D)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF5C9D&text_color=ffffff&bg_color=0D1117&icon_color=FF5C9D&border_color=FF5C9D&langs_count=8)
+![](https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=FF5C9D&icon_color=FF5C9D&text_color=2A1025&bg_color=ffffff)<br/>
+![](https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=ffffff&ring=FF5C9D&fire=FF5C9D&currStreakLabel=FF5C9D&stroke=ffffff&sideLabels=2A1025&currStreakNum=2A1025&sideNums=2A1025&dates=9C7A8C)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF5C9D&text_color=2A1025&bg_color=ffffff&icon_color=FF5C9D&border_color=FF5C9D&langs_count=8)
 
 ---
 
 ## 𝄞 Selected Projects
 
-| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=highcontrast&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT)
+| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy&repo=UNDERGROUND-TO-BREAKOUT&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&text_color=2A1025&bg_color=ffffff)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT) |
 
 ---
 
