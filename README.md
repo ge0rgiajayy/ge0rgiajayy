@@ -99,14 +99,15 @@ georgia = {
 > *Currently learning, experimenting, and adding to the toolkit.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Advanced_SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Storytelling-000000?style=for-the-badge&logo=storyblok&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Football_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI_Advanced-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualisation-000000?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Storytelling-000000?style=for-the-badge&logo=storyblok&logoColor=white" />
+<img src="https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Football_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI_Advanced-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Visualisation-000000?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Game_Development-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 *The stack is growing...*
