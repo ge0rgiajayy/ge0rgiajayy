@@ -4,6 +4,7 @@
   <a href="#about-me"><img src="https://img.shields.io/badge/about-000000?style=flat-square&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" /></a>
   <a href="#socials"><img src="https://img.shields.io/badge/socials-000000?style=flat-square&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" /></a>
   <a href="#tech-stack"><img src="https://img.shields.io/badge/tech-000000?style=flat-square&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" /></a>
+  <a href="#learning-stack"><img src="https://img.shields.io/badge/learning-000000?style=flat-square&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" /></a>
   <a href="#github-stats"><img src="https://img.shields.io/badge/stats-000000?style=flat-square&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" /></a>
   <a href="#selected-projects"><img src="https://img.shields.io/badge/projects-000000?style=flat-square&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" /></a>
   <a href="#donate"><img src="https://img.shields.io/badge/donate-000000?style=flat-square&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" /></a>
@@ -63,6 +64,8 @@ georgia = {
 
 # ꩜ Tech Stack
 
+### Data & Analytics
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -72,6 +75,11 @@ georgia = {
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Creative & Development
+
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
@@ -81,6 +89,27 @@ georgia = {
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
+
+---
+
+<a id="learning-stack"></a>
+
+# ⌁ Learning Stack
+
+> *Currently learning, experimenting, and adding to the toolkit.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Advanced_SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Storytelling-000000?style=for-the-badge&logo=storyblok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Football_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI_Advanced-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualisation-000000?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+*The stack is growing...*
 
 ---
 
@@ -126,6 +155,16 @@ georgia = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/georgiajayy/georgiajayy/main/thankyou-thank-you-so-much.gif" width="180" alt="Thank you!" />
+</div>
+
+<br>
+
+<div align="center">
+
+  <a href="https://open.spotify.com/user/u0swet40w9urvwnha1s0jv1f4?si=326f605c8fa245b1">
+    <sub>psst... there's something hidden in this README 👀</sub>
+  </a>
+
 </div>
 
 <p align="center">
