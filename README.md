@@ -84,7 +84,7 @@ georgia = {
 
 ## 𝄞 Selected Projects
 
-| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=highcontrast&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT)<br>**UNDERGROUND-TO-BREAKOUT · Music Analytics**  Tracking an underground rap duo's growth through streaming data, social media, releases, audience behaviour, and creative research.
+| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy&repo=UNDERGROUND-TO-BREAKOUT&theme=highcontrast&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT)
 
 ---
 
