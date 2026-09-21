@@ -94,8 +94,6 @@ I believe personality should show in everything you make — which is probably w
 
 <br>
 
-† data tells stories † stories need context † context needs creativity †
-
 <br>
 
 <a id="socials"></a>
@@ -113,8 +111,6 @@ I believe personality should show in everything you make — which is probably w
 </a>
 
 <br><br>
-
-☠︎︎ somewhere between the internet & the real world ☠︎︎
 
 <br>
 
