@@ -42,9 +42,34 @@ georgia = {
     "principle": "make it mean something.",
     "currentlyExploring": "the underground rap scene, like an angsty teenager",
 }
-```
 
-ower_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+---
+
+<a id="socials"></a>
+
+## ❀ Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/georgiajayysummers/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:work.georgiajayy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<a id="tech-stack"></a>
+
+# ꩜ Tech Stack
+
+### Data & Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
