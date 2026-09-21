@@ -39,7 +39,6 @@ georgia = {
     "tools": ["SQL", "Python", "Power BI", "Excel"],
     "principle": "make it mean something.",
     "currentlyExploring": "the underground rap scene, like an angsty teenager",
-    "status": "probably overthinking a dashboard right now"
 }
 ```
 
