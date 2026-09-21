@@ -14,7 +14,7 @@
   <img src="./README%20banner.gif" width="100%" alt="Culture" />
 </div>
 
-<h1 align="center">☆ Hi, I'm Georgia J Summers! ☆</h1>
+<h1 align="center">☆ Hi, I'm Georgia J. Summers! ☆</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=25&center=true&vCenter=true&width=800&lines=Junior+Data+Analyst;Sports%2C+Culture+%26+Entertainment">
@@ -30,7 +30,7 @@
 
 I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, and entertainment**. I combine data, storytelling, and creativity to explore audiences, trends, and the narratives behind the numbers — because a spreadsheet is only half the story.
 
-I also freelance in **Production, Editing & Videography** as **Georgia Jayy**, am a die-hard Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection. I believe personality should show in everything you make — which is why I spent **10,000 years** on this README.
+I also freelance in **Production, Editing & Videography** as **"Georgia Jayy"**, am a die-hard Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection. I believe personality should show in everything you make — which is why I spent **10,000 years** on this README.
 
 ```python
 georgia = {
