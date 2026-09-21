@@ -88,8 +88,6 @@ georgia = {
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=georgiajayy&color=FF5C9D&style=for-the-badge)](https://visitcount.itsvg.in)
-
 ## ♡ You can help me by Donating
 <p align="left">
 <a href="https://buymeacoffee.com/georgiajayy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5C9D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
