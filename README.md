@@ -93,5 +93,7 @@ georgia = {
 </p>
 
 ---
-
+<div style="text-align:center; margin-top: 40px;">
+  <img src="assets/thankyou-thank-you-so-much.gif" width="180" alt="Thank you!" />
+</div>
 
