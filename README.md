@@ -20,27 +20,24 @@
 <br> 
  
 <a id="about"></a> 
-## ☠︎︎ About Me 
- 
-> *“Data is cool. Making it creative is better.”*
- 
-I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, and entertainment**. I combine data, storytelling, and creativity to explore audiences, trends, and the narratives behind the numbers. I'm interested in how data can be used to tell better stories and create more engaging experiences. 
- 
-I also freelance in **Production, Editing & Videography** as **Georgia Jayy**, am a huge Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection. I believe personality should be shown in everything you do — which is why I spent **10,000 years** making this README.
- 
-<pre style="color:#FF5C9D;">
+## ☠︎︎ About Me
+
+> *"Data is cool. Making it creative is better."*
+
+I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, and entertainment**. I combine data, storytelling, and creativity to explore audiences, trends, and the narratives behind the numbers — because a spreadsheet is only half the story.
+
+I also freelance in **Production, Editing & Videography** as **Georgia Jayy**, am a die-hard Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection. I believe personality should show in everything you make — which is why I spent **10,000 years** on this README.
+
+```python
 georgia = {
-    "role": ["Junior Data Analyst", "Producer", "Editor", "Videographer"],
-    "focus": [
-        "sport",
-        "culture",
-        "music",
-        "entertainment",
-    ],
+    "role": ["Junior Data Analyst 📊", "Producer 🎬", "Editor ✂️", "Videographer 🎥"],
+    "focus": ["sport", "culture", "music", "entertainment"],
     "tools": ["SQL", "Python", "Power BI", "Excel"],
     "principle": "data should be as cool as it is informative",
-    "currentlyExploring": "the underground rap scene like I'm an angsty teenager"
+    "currentlyExploring": "the underground rap scene, like an angsty teenager 🎧",
+    "status": "probably overthinking a dashboard right now"
 }
+```
 </pre>
 
 ---
