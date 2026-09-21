@@ -52,12 +52,23 @@ georgia = {
 
 **Data & Analytics**
 <br>
+# 💻 Tech Stack:
 <img src="https://img.shields.io/badge/Python-D95892?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-FF5C9D?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-D95892?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-E84D91?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-FF5C9D?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-D95892?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-E84D91?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-FF5C9D?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-D95892?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-E84D91?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-FF5C9D?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-D95892?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-E84D91?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-FF5C9D?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-D95892?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-E84D91?style=for-the-badge&logo=trello&logoColor=white" />
 
 <br>
 
