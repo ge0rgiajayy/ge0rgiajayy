@@ -32,7 +32,7 @@ I'm a **Junior Data Analyst** interested in the worlds of **sport, culture, and 
 
 I also freelance in **Production, Editing & Videography** as **"Georgia Jayy"**, am a die-hard Arsenal fan, and a music encyclopedia with a slightly unhealthy devotion to my CD collection. 🎧
 
-I believe personality should show in everything you make — which is why I spent **10,000 years** on this README.
+I believe personality should show in everything you do — which is why I spent **10,000 years** on this README.
 
 ---
 
