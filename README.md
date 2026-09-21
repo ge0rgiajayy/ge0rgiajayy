@@ -88,7 +88,7 @@ georgia = {
 
 ---
 
-## ♡ You can help me by Donating
+## ♡ All donations are welcome!
 <p align="left">
 <a href="https://buymeacoffee.com/georgiajayy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5C9D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
 </p>
