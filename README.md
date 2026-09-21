@@ -44,52 +44,25 @@ georgia = {
 }
 ```
 
----
-
-<a id="socials"></a>
-
-## Socials 
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/georgiajayysummers/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff1493?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:work.georgiajayy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<a id="tech-stack"></a>
-
-# ꩜ Tech Stack 
-
-### Data & Analytics
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-ff1493?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-ff1493?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-ff1493?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-ff1493?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-ff1493?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-ff1493?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-ff1493?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ff1493?style=for-the-badge&logo=python&logoColor=white" />
+ower_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Creative & Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-ff1493?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-ff1493?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-ff1493?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-ff1493?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-ff1493?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-ff1493?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-ff1493?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-ff1493?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
@@ -98,21 +71,21 @@ georgia = {
 
 # ⌁ Learning Stack
 
-> *Currently learning, experimenting, and adding to the toolkit.* 
+> *Currently learning, experimenting, and adding to the toolkit.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Advanced_SQL-ff1493?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-ff1493?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Storytelling-ff1493?style=for-the-badge&logo=storyblok&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sports_Analytics-ff1493?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Football_Analytics-ff1493?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI_Advanced-ff1493?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualisation-ff1493?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-ff1493?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Game_Development-ff1493?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Storytelling-000000?style=for-the-badge&logo=storyblok&logoColor=white" />
+<img src="https://img.shields.io/badge/Sports_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Football_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI_Advanced-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Visualisation-000000?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Game_Development-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-*The stack is growing...* 
+*The stack is growing...*
 
 ---
 
