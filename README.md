@@ -73,12 +73,8 @@ I believe personality should show in everything you make — which is probably w
 <br>
 
 georgia = {
-    "role": [
-        "Junior Data Analyst",
-        "Producer",
-        "Editor",
-        "Videographer"
-    ],
+    "role": [ "Junior Data Analyst", "Producer", "Editor", "Videographer"
+],
 
     "focus": [
         "sport",
