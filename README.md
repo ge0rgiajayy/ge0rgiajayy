@@ -134,9 +134,6 @@ I believe personality should show in everything you do — which is why I spent 
 
 ## Selected Projects
 
-|                                                                                                                                        Project                                                                                                                                       |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![UNDERGROUND-TO-BREAKOUT](https://github-readme-stats.shion.dev/api/pin/?username=georgiajayy\&repo=UNDERGROUND-TO-BREAKOUT\&hide_border=true\&title_color=000000\&icon_color=000000\&text_color=000000\&bg_color=FFFFFF)](https://github.com/georgiajayy/UNDERGROUND-TO-BREAKOUT) |
 
 ---
 
