@@ -136,14 +136,9 @@ I believe personality should show in everything you do — which is why I spent 
 
 <a id="selected-projects"></a>
 
-| [![womens-football-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=womens-football-dashboard&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/womens-football-dashboard)<br>**WOMEN'S FOOTBALL DASHBOARD · Sports Analytics** 🚧<br>An interactive dashboard exploring the women's game through professional match event data, from shot maps to passing networks.<br>*Python · pandas · StatsBomb · Streamlit · Data visualisation* |
-| --- |
-
-| [![track-recommender](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=track-recommender&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/track-recommender)<br>**TRACK RECOMMENDER · Music & Machine Learning** 🚧<br>A song and album recommendation model that finds music by how it actually sounds, served through its own API.<br>*Python · Machine learning · FastAPI · Recommendation systems* |
-| --- |
-
-| [![nine-nights](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=Nine-Nights-&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/Nine-Nights-)<br>**NINE NIGHTS · Game** 🌱<br>An early-stage game concept — details and tech stack coming as it takes shape.<br>*Planned* |
-| --- |
+| [![womens-football-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=womens-football-dashboard&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/womens-football-dashboard) | [![track-recommender](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=track-recommender&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/track-recommender) | [![nine-nights](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=Nine-Nights-&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/Nine-Nights-) |
+| :---: | :---: | :---: |
+| **WOMEN'S FOOTBALL DASHBOARD** <br>*Python · pandas · StatsBomb · Streamlit* | **TRACK RECOMMENDER** <br>*Python · ML · FastAPI* | **NINE NIGHTS** <br>*Planned* |
 
 ---
 
