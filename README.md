@@ -10,8 +10,6 @@
   <a href="#donate"><img src="https://img.shields.io/badge/donate-ff1493?style=flat-square&labelColor=000000&color=ff1493&logoColor=FFFFFF" /></a>
 </div>
 
-[![](https://img.shields.io/badge/Spotify-FF5C9D?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/u0swet40w9urvwnha1s0jv1f4)
-
 <div align="center">
   <img src="./README%20banner.gif" width="100%" alt="Culture" />
 </div>
