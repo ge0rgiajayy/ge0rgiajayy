@@ -143,9 +143,6 @@ I believe personality should show in everything you do — which is why I spent 
 | **WOMEN'S FOOTBALL DASHBOARD** <br>*Python · pandas · StatsBomb · Streamlit* | **TRACK RECOMMENDER** <br>*Python · ML · FastAPI* | **NINE NIGHTS** <br>*Planned* |
 
 ---
-## 𐃯 Contributions & Trophies
-
-![](https://github-trophies.vercel.app/?username=georgiajayy)
 
 <a id="donate"></a>
 
