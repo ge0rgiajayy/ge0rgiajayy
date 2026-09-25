@@ -131,15 +131,6 @@ I believe personality should show in everything you do — which is why I spent 
 </p>
 
 ---
-<a id="github-stats"></a>
-
-# ★ LeetCode Stats
-
-<p align="center">
-
-<img height="180em" src="https://leetcard.jacoblin.cool/georgiajayy?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
-
----
 
 <a id="selected-projects"></a>
 
