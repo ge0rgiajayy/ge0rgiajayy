@@ -145,8 +145,6 @@ I believe personality should show in everything you do — which is why I spent 
 ---
 ## 𐃯 Contributions & Trophies
 
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/georgiajayy?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink)
-
 ![](https://github-trophies.vercel.app/?username=georgiajayy)
 
 <a id="donate"></a>
