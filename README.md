@@ -112,13 +112,15 @@ I believe personality should show in everything you do — which is why I spent 
 
 <a id="github-stats"></a>
 
-# ★ GitHub Stats
+# ★ GitHub & LeetCode Stats
 
 <p align="center">
 
   <img src="https://github-readme-stats.shion.dev/api?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&title_color=ff1493&icon_color=ff1493&text_color=000000&bg_color=FFFFFF" />
 
   <br/>
+  
+  <img height="180em" src="https://leetcard.jacoblin.cool/georgiajayy?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
 
   <img src="https://streak-stats.demolab.com/?user=georgiajayy&hide_border=true&background=FFFFFF&ring=ff1493&fire=ff1493&currStreakLabel=ff1493&stroke=FFFFFF&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" />
 
