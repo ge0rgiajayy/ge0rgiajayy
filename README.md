@@ -142,7 +142,7 @@ I believe personality should show in everything you do — which is why I spent 
 
 ---
 
-## Contribution Snake 🐍
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/georgiajayy/georgiajayy/output/github-snake-dark.svg" />
