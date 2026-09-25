@@ -110,18 +110,6 @@ I believe personality should show in everything you do — which is why I spent 
 
 ---
 
-<a id="selected-projects"></a>
-
-## Selected Projects
-
-<a id="selected-projects"></a>
-
-| [![womens-football-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=womens-football-dashboard&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/womens-football-dashboard) | [![track-recommender](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=track-recommender&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/track-recommender) | [![nine-nights](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=Nine-Nights-&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/Nine-Nights-) |
-| :---: | :---: | :---: |
-| **WOMEN'S FOOTBALL DASHBOARD** <br>*Python · pandas · StatsBomb · Streamlit* | **TRACK RECOMMENDER** <br>*Python · ML · FastAPI* | **NINE NIGHTS** <br>*Planned* |
-
----
-
 <a id="github-stats"></a>
 
 # ★ GitHub & LeetCode Stats
@@ -141,6 +129,18 @@ I believe personality should show in everything you do — which is why I spent 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff1493&text_color=000000&bg_color=FFFFFF&icon_color=ff1493&border_color=FFFFFF&langs_count=8" />
 
 </p>
+
+---
+
+<a id="selected-projects"></a>
+
+## Selected Projects
+
+<a id="selected-projects"></a>
+
+| [![womens-football-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=womens-football-dashboard&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/womens-football-dashboard) | [![track-recommender](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=track-recommender&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/track-recommender) | [![nine-nights](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=Nine-Nights-&theme=default&bg_color=FFFFFF&title_color=0D0D0D&text_color=333333&icon_color=0D0D0D&border_color=0D0D0D)](https://github.com/georgiajayy/Nine-Nights-) |
+| :---: | :---: | :---: |
+| **WOMEN'S FOOTBALL DASHBOARD** <br>*Python · pandas · StatsBomb · Streamlit* | **TRACK RECOMMENDER** <br>*Python · ML · FastAPI* | **NINE NIGHTS** <br>*Planned* |
 
 ---
 
