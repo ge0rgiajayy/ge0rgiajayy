@@ -112,8 +112,6 @@ I believe personality should show in everything you do — which is why I spent 
 
 <a id="github-stats"></a>
 
-![Kyubey](https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Kyubey.gif)
-
 # ★ GitHub Stats
 
 <p align="center">
@@ -129,6 +127,15 @@ I believe personality should show in everything you do — which is why I spent 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=georgiajayy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff1493&text_color=000000&bg_color=FFFFFF&icon_color=ff1493&border_color=FFFFFF&langs_count=8" />
 
 </p>
+
+---
+<a id="github-stats"></a>
+
+# ★ LeetCode Stats
+
+<p align="center">
+
+<img height="180em" src="https://leetcard.jacoblin.cool/georgiajayy?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
 
 ---
 
