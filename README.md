@@ -112,6 +112,8 @@ I believe personality should show in everything you do — which is why I spent 
 
 <a id="github-stats"></a>
 
+![Kyubey](https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Kyubey.gif)
+
 # ★ GitHub Stats
 
 <p align="center">
