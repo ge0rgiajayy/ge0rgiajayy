@@ -134,6 +134,13 @@ I believe personality should show in everything you do — which is why I spent 
 
 ## Selected Projects
 
+<a id="selected-projects"></a>
+
+| [![womens-football-dashboard](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=womens-football-dashboard&theme=radical&border_color=FF5C9D&title_color=FF80B5)](https://github.com/georgiajayy/womens-football-dashboard)<br>**WOMEN'S FOOTBALL DASHBOARD · Sports Analytics** 🚧<br>An interactive dashboard exploring the women's game through professional match event data, from shot maps to passing networks.<br>*Python · pandas · StatsBomb · Streamlit · Data visualisation* |
+| --- |
+
+| [![track-recommender](https://github-stats-extended.vercel.app/api/pin/?username=georgiajayy&repo=track-recommender&theme=radical&border_color=FF5C9D&title_color=FF80B5)](https://github.com/georgiajayy/track-recommender)<br>**TRACK RECOMMENDER · Music & Machine Learning** 🚧<br>A song and album recommendation model that finds music by how it actually sounds, served through its own API.<br>*Python · Machine learning · FastAPI · Recommendation systems* |
+| --- |
 
 ---
 
